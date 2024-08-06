@@ -4,7 +4,7 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: "Notice: This site is under maintenance."
+notification: ""
 sections:
   - hero:
       title: A new revitalised Heritage Centre
