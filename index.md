@@ -4,7 +4,7 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: Test
 sections:
   - hero:
       title: A new revitalised Heritage Centre
@@ -34,12 +34,13 @@ sections:
       button: View all resources
       url: /faq/
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Tata's page
+      subtitle: Tata page
       id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
+      description: Tata description
+      button: Tata Button Text
+      alt: Tata image alt text
+      url: /tata-page/
   - announcements:
       title: Announcements
       id: announcements
