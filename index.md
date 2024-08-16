@@ -40,7 +40,7 @@ sections:
       description: Tata description
       button: Tata Button Text
       alt: Tata image alt text
-      url: /tata-page/
+      url: /tata-page
   - announcements:
       title: Announcements
       id: announcements
