@@ -35,11 +35,12 @@ sections:
       url: /faq/
   - infopic:
       title: Infopic
-      subtitle: Add an image and text
+      subtitle: Tata page
       id: infopic
       description: Infopic description
       button: Button Text
       alt: Image alt text
+      url: /tata page/
   - announcements:
       title: Announcements
       id: announcements
