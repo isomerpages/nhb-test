@@ -39,8 +39,8 @@ sections:
       id: infopic
       description: Tata description
       button: Tata Button Text
-      alt: Image alt text
-      url: /tata-page/
+      alt: Tata image alt text
+      url: /tata page/
   - announcements:
       title: Announcements
       id: announcements
