@@ -34,7 +34,7 @@ sections:
       button: View all resources
       url: /faq/
   - infopic:
-      title: Tata page
+      title: Tata's page
       subtitle: Tata page
       id: infopic
       description: Tata description
