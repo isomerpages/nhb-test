@@ -34,11 +34,11 @@ sections:
       button: View all resources
       url: /faq/
   - infopic:
-      title: Infopic
+      title: Tata page
       subtitle: Tata page
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Tata description
+      button: Tata Button Text
       alt: Image alt text
       url: /tata page/
   - announcements:
