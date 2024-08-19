@@ -73,7 +73,6 @@ sections:
   - textcards:
       title: Exhibition Highlights
       id: textcards
-      description: Text card description
       cards:
         - title: About Changi Chapel Museum
           description: Learn about the history of our building
