@@ -23,10 +23,33 @@ sections:
         - title: contact us
           description: Page A is important too
           url: /privacy/
+        - title: Visit Us
+          description: Key Highlight description
+          url: ""
       variant: floating
       size: md
       alignment: left
       backgroundColor: gray
+  - textcards:
+      title: Exhibition Highlights
+      id: textcards
+      cards:
+        - title: About Changi Chapel Museum
+          description: Learn about the history of our building
+          linktext: Learn more
+          url: ""
+        - title: Life as Prisoners of War
+          description: Experience the life of POWs, through our immersive exhibitions
+          linktext: Learn more
+          url: ""
+        - title: Resilience in Adversity
+          description: lorem ipsum
+          linktext: Learn more
+          url: ""
+        - title: Legacies
+          description: lorem ipsum
+          linktext: Learn more
+          url: ""
   - infobar:
       title: Explore our online resources
       subtitle: Our resources
@@ -70,24 +93,4 @@ sections:
           description: Events happening next month
         - title: Key highlights
           description: Take a look at our Special events
-  - textcards:
-      title: Exhibition Highlights
-      id: textcards
-      cards:
-        - title: About Changi Chapel Museum
-          description: Learn about the history of our building
-          linktext: Learn more
-          url: ""
-        - title: Life as Prisoners of War
-          description: Experience the life of POWs, through our immersive exhibitions
-          linktext: Learn more
-          url: ""
-        - title: Resilience in Adversity
-          description: lorem ipsum
-          linktext: Learn more
-          url: ""
-        - title: Legacies
-          description: lorem ipsum
-          linktext: Learn more
-          url: ""
 ---
