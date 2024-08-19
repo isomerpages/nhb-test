@@ -5,3 +5,4 @@ variant: tiptap
 description: ""
 image: /images/CCM_sample_2.png
 ---
+<p></p>
