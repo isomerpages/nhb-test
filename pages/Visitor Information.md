@@ -4,11 +4,15 @@ permalink: /visitor-information/
 variant: tiptap
 description: View information about Changi Chapel Museum's opening hours
 ---
-<h2>Opening Hours</h2>
+<h2><strong>Opening Hours</strong></h2>
 <p>9.30am to 5.30pm (Tuesdays to Sundays)
 <br>Closed every Monday except Public Holidays
 <br>Last admission at 5pm.</p>
-<h2>Visitor Guide</h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="museum entrance" src="/images/CCM_sample_1.png">
+</div>
+<h2><strong>Visitor Guide</strong></h2>
 <p>Download our visitor guide (<a href="https://www.nhb.gov.sg/changichapelmuseum/-/media/ccm2021/visit/visitor-guides/2023-ccm-eng-guide-as-of-090523.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>English</u></a>,
 <a href="https://www.nhb.gov.sg/changichapelmuseum/-/media/ccm2021/visit/visitor-guides/2023-ccm-chinese-guide-as-of-090623.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chinese</u>
 </a>, <a href="https://www.nhb.gov.sg/changichapelmuseum/-/media/ccm2021/visit/visitor-guides/2023-ccm-malay-guide-as-of-090623.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Bahasa Melayu</u></a>,
@@ -16,7 +20,10 @@ description: View information about Changi Chapel Museum's opening hours
 </a>, <a href="https://www.nhb.gov.sg/changichapelmuseum/-/media/ccm2021/visit/visitor-guides/2023-ccm-japanese-guide-as-of-070723.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Japanese</u></a>)
 to plan your visit. In this guide, you will also find the floor plan for
 easier navigation.</p>
-<h2>Get Tickets</h2>
+<h3><strong>(Test embed video)</strong></h3>
+<div class="iframe-wrapper">
+<iframe height="346" width="615" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/PAvwgkHtsIA"></iframe>
+</div>
 <p><strong><a href="https://nhb.vouch.sg/ccm?vcref=onlineticketing" rel="noopener noreferrer" target="_blank"><u>BOOK YOUR TICKET(S) ONLINE</u></a></strong>
 </p>
 <h2>Admission Fees</h2>
