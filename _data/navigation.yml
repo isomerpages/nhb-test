@@ -1,7 +1,7 @@
 logo: /images/isomer-logo.svg
 links:
   - title: Visit Us
-    collection: example-folder
+    collection: visit-us
   - title: Learn
     url: /example-page/
   - title: What's On
