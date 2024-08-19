@@ -70,4 +70,25 @@ sections:
           description: Events happening next month
         - title: Key highlights
           description: Take a look at our Special events
+  - textcards:
+      title: Exhibition Highlights
+      id: textcards
+      description: Text card description
+      cards:
+        - title: About Changi Chapel Museum
+          description: Learn about the history of our building
+          linktext: Learn more
+          url: ""
+        - title: Life as Prisoners of War
+          description: Experience the life of POWs, through our immersive exhibitions
+          linktext: Learn more
+          url: ""
+        - title: Resilience in Adversity
+          description: lorem ipsum
+          linktext: Learn more
+          url: ""
+        - title: Legacies
+          description: lorem ipsum
+          linktext: Learn more
+          url: ""
 ---
