@@ -1,0 +1,5 @@
+collections:
+  visit-us:
+    output: true
+    order:
+      - Visitor Information.md

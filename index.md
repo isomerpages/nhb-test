@@ -4,28 +4,52 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Test
+notification: Please note that the centre is currently undergoing renovations
+  and some tours may not be available.
 sections:
   - hero:
-      title: A new revitalised Heritage Centre
-      subtitle: We are now open to all visitors! *Terms and conditions apply
-      background: /images/hero-banner.png
+      title: Welcome to Changi Chapel Museum
+      subtitle: Explore our newly revitalised museum. *Terms and Conditions apply.
+      background: /images/CCM_sample_1.png
       button: learn more
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
+        - title: About us
           description: Important highlight A is important
           url: https://google.com
-        - title: Highlight B
+        - title: Support us
           description: Important highlight B is equally important
           url: https://gmail.com
-        - title: Page A
+        - title: contact us
           description: Page A is important too
           url: /privacy/
+        - title: Visit Us
+          description: Key Highlight description
+          url: ""
       variant: floating
       size: md
       alignment: left
       backgroundColor: gray
+  - textcards:
+      title: Exhibition Highlights
+      id: textcards
+      cards:
+        - title: About Changi Chapel Museum
+          description: Learn about the history of our building
+          linktext: Learn more
+          url: ""
+        - title: Life as Prisoners of War
+          description: Experience the life of POWs, through our immersive exhibitions
+          linktext: Learn more
+          url: ""
+        - title: Resilience in Adversity
+          description: lorem ipsum
+          linktext: Learn more
+          url: ""
+        - title: Legacies
+          description: lorem ipsum
+          linktext: Learn more
+          url: ""
   - infobar:
       title: Explore our online resources
       subtitle: Our resources
