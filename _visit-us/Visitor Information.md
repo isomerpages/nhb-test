@@ -166,7 +166,7 @@ Museum of Singapore or Reflections at Bukit Chandu ticket.</p>
 is subject to the museum’s prevailing venue rules and regulations.</p>
 <h2>Getting Here</h2>
 <div class="iframe-wrapper">
-<iframe style="box-sizing: border-box; outline: none; color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;" height="600" width="100%" allowfullscreen="true" frameborder="0" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=changi%20museum+(Changi%20Chapel%20and%20Museum)&amp;t=&amp;z=16&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe>
+<iframe style="border:0;" height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15954.74249860203!2d103.96565199611108!3d1.3652996212411213!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da3cf7eac10109%3A0x8ece052eb785a8ab!2sChangi%20Chapel%20%26%20Museum!5e0!3m2!1sen!2ssg!4v1724116624308!5m2!1sen!2ssg"></iframe>
 </div>
 <h3><strong><u>Bus</u></strong></h3>
 <p>You may alight from bus nos. 2 and 29 at the Changi Chapel Museum stop
@@ -190,3 +190,4 @@ Changi Chapel and Museum.</p>
 <br>Grace Period: 10 minutes (only pick ups and drop offs allowed)</p>
 <p><strong><u>Motorcycle</u></strong>
 <br>$0.65 per entry throughout the day</p>
+<p></p>
