@@ -2,4 +2,5 @@ collections:
   visit-us:
     output: true
     order:
+      - Our Programmes.md
       - Visitor Information.md
