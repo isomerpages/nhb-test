@@ -4,5 +4,5 @@ links:
     collection: visit-us
   - title: Learn
     url: /example-page/
-  - title: What's On
-    collection: example-folder
+  - title: What's on - Resource Example
+    resource_room: true
