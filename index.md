@@ -56,7 +56,7 @@ sections:
       description: Malay Heritage Centre collects a vast number of resources, spanning
         from ...
       button: View all resources
-      url: /faq/
+      url: /about-us
   - infopic:
       title: Tata's page
       subtitle: Tata page
