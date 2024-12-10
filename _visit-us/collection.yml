@@ -2,5 +2,6 @@ collections:
   visit-us:
     output: true
     order:
+      - example-page.md
       - Our Programmes.md
       - Visitor Information.md
